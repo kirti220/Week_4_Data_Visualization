@@ -107,7 +107,7 @@ The dashboard uses KPI cards, trend charts, bar charts, treemap, donut chart, sc
 
 ## Repository Structure
 ```text
-Week_4_Data_Visualization/
+Week 4 Data Visualization Power BI/
 │
 ├── README.md
 │
